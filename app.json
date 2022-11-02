@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "doobi-sub",
+    "slug": "doobi-sub",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "doobi-sub"
+}
