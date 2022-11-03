@@ -1,5 +1,2 @@
-let text = "ㅇ";
-
-if (text) {
-  console.log("띠용");
-}
+// test test
+console.log("테스트테스트 두번째");
